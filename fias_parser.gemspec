@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["xronos.i.am@gmail.com"]
   spec.description   = %q{Parse and install FIAS database}
   spec.summary       = %q{Parse and install FIAS database http://fias.nalog.ru/Public/DownloadPage.aspx}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/xronos-i-am/fias_parser"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
